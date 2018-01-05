@@ -1,0 +1,33 @@
+body {
+	background-color: #DDDDDD;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+ul {
+	margin: 0px 0px 0px 15%;
+}
+
+footer {
+	margin: 10px 0px 0px 0px;
+	font-size: 10px;
+}
+.text {
+	font-family: 'Coustard', serif;
+	font-size: 21px;
+}
+
+.red {
+	color: #FF2400;
+}
+
+.green {
+	color: #7FE817;
+}
+
+#tiny {
+	font-size: 10px;
+}
